@@ -3,7 +3,7 @@ docker build -f Dockerfile.dev -t ayhangungor/client . <br/>
 docker build -t ayhangungor/client .
 
 ## server
-docker build -f Dockerfile.dev -t ayhangungor/server .
+docker build -f Dockerfile.dev -t ayhangungor/server .<br/>
 docker build -t ayhangungor/server .
 
 ## docker-compose
